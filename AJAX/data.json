@@ -1,0 +1,43 @@
+{
+  "people":[
+ {
+
+    "name": "anna",
+   "surname": "tutxalyan",
+    "age": 24,
+   "sex": "female",
+   "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpTWMdWCC7GdXFGOq9XDB5BVC-Clp7kq4oGA&s"
+
+  },
+  {
+    "name": "karen",
+    "surname": "papazyan",
+    "age": 24,
+    "sex": "male",
+    "photo":"https://images.unsplash.com/photo-1484515991647-c5760fcecfc7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bWFsZXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+    {
+      "name": "artur",
+      "surname": "gishajyan",
+      "age": 34,
+      "sex": "male",
+      "photo":"https://www.shutterstock.com/image-photo/headshot-portrait-happy-millennial-man-260nw-1548802709.jpg"
+    },
+    {
+      "name": "ani",
+      "surname": "mkrtchyan",
+      "age": 26,
+      "sex": "female",
+      "photo":"https://cdn.pixabay.com/photo/2024/05/28/16/39/female-8794201_1280.png"
+
+    },
+    {
+      "name": "anush",
+      "surname": "axlamazyan",
+      "age": 35,
+      "sex": "female",
+      "photo":"https://media.istockphoto.com/id/1289220545/photo/beautiful-woman-smiling-with-crossed-arms.jpg?s=612x612&w=0&k=20&c=qmOTkGstKj1qN0zPVWj-n28oRA6_BHQN8uVLIXg0TF8="
+
+    }
+]
+}
